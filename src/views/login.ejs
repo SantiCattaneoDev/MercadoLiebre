@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- Head -->
+<%- include('partials/head', {title: 'inicia sesion'}) %>
+<!-- /Head -->
+    <body>
+    <!-- Header -->
+	<%- include('partials/headerNavbar') %>
+	<!-- /Header -->
+
+    <!-- Form -->
+    <main class="login">
+        <form action="/" method="POST">
+            <label for="user" class="form-label">Nombre De Usuario:</label>
+            <input type="text" name="user" class="form-input">
+            <label for="pass" class="form-label">Contraseña:</label>
+            <input type="password" name="pass" class="form-input">
+            <input type="submit" value="Enviar" class="buy-now-button">
+        </form>
+    </main>
+    <!-- /Form -->
+
+    <!-- footer -->
+    <%- include('partials/footer') %>
+    <!-- /footer -->
+    </body>
+</html>

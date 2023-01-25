@@ -9,6 +9,16 @@ This practical application is made with the following languages:
 - CSS
 - JS
 >
+
+## How To Try It?
+to test the web use the following commands.
+>
+` git clone https://github.com/SantiCattaneoDev/MercadoLiebre.git `
+>
+` npm install `
+>
+` npm start `
+
 ## 🇪🇸 Español 🇪🇸
 Hola mundo!!
 soy santino cattaneo un programador full stack en proceso acompañado por la academania Digital House, hoy quiero sumar a mi repositorio una aplicacion web practica con mis diferentes conocimientos implementados.

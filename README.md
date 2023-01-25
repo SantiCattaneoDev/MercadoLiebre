@@ -14,6 +14,6 @@ Hola mundo!!
 soy santino cattaneo un programador full stack en proceso acompañado por la academania Digital House, hoy quiero sumar a mi repositorio una aplicacion web practica con mis diferentes conocimientos implementados.
 >
 esta aplicacion practica esta realizada con los siguientes lenguajes:
-HTML
-CSS
-JS
+- HTML
+- CSS
+- JS

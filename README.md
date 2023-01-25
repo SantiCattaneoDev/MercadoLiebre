@@ -5,9 +5,9 @@ Hello World!!
 I am santino cattaneo a full stack programmer in progress accompanied by the Digital House academy, today I want to add to my repository a practical web application with my different knowledge implemented.
 >
 This practical application is made with the following languages:
-HTML
-CSS
-JS
+- HTML
+- CSS
+- JS
 >
 ## 🇪🇸 Español 🇪🇸
 Hola mundo!!

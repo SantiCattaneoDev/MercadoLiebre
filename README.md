@@ -10,7 +10,7 @@ This practical application is made with the following languages:
 - JS
 >
 
-## How To Try It?
+### How To Try It?
 to test the web use the following commands.
 >
 ` git clone https://github.com/SantiCattaneoDev/MercadoLiebre.git `
@@ -27,3 +27,12 @@ esta aplicacion practica esta realizada con los siguientes lenguajes:
 - HTML
 - CSS
 - JS
+
+### Cómo probarlo?
+para probar la web usa los siguientes comandos.
+>
+` git clone https://github.com/SantiCattaneoDev/MercadoLiebre.git `
+>
+` npm install `
+>
+` npm start `
